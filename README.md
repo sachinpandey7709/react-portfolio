@@ -1,4 +1,4 @@
-# 🚀 Vansh Garg – Personal Portfolio
+# 🚀 Sachin Kumar Pandey – Personal Portfolio
 
 A modern, responsive portfolio website built with **React + Vite + TypeScript**, **Tailwind CSS**, and **Framer Motion**, featuring a backend contact API powered by **Node.js**, **MongoDB**, and **Nodemailer**.
 

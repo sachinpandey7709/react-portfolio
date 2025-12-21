@@ -340,12 +340,12 @@ const About = () => {
             custom={6}
           >
             {[
-              "AI Development",
-              "Data Science",
-              "Full-Stack Engineering",
-              "Next.js",
-              "Flask",
-              "Django",
+              "IOT",
+              "Cloud Computing",
+              "Cybersecurity",
+              "Civil",
+              "Web Development",
+              "Automation",
             ].map((tag) => (
               <span
                 key={tag}
