@@ -36,7 +36,7 @@ const projects: Project[] = [
     ],
     impact:
       "Combines projects, resume, and career tools in a single platform. Increases chances of being noticed in competitive job markets.",
-    liveUrl: "",
+    liveUrl: "https://sachinpandey7709.github.io/3d-Portfolio-Notebook/",
     githubUrl: "https://github.com/sachinpandey7709",
   },
   {
@@ -59,7 +59,7 @@ const projects: Project[] = [
     impact:
       "Visual and interactive layout makes complex projects easier to grasp. Leaves a memorable impression on recruiters and clients. Differentiates the candidate in competitive job markets.",
     liveUrl:
-      "",
+      "https://sachinpandey7709.github.io/3d-Portfolio/",
     githubUrl: "https://github.com/sachinpandey7709/",
   },
   {
@@ -81,7 +81,7 @@ const projects: Project[] = [
     ],
     impact:
       "Projects and abilities are presented in an easy-to-understand, interactive format. Unique design helps the portfolio stand out immediately.",
-    liveUrl: "",
+    liveUrl: "https://sachinpandey7709.github.io/Responsive-Portfolio/",
     githubUrl: "https://github.com/sachinpandey7709",
   },
 ];
