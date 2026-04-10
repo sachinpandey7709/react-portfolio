@@ -39,5 +39,6 @@ This site showcases my work in **Data Science, AI, and Full-Stack Development** 
 - 📱 **Fully Responsive**
   - Optimized for **mobile**, **tablet**, and **desktop**
   - Components using fluid grids, responsive typography, and flexible spacing
+  - https://react-portfolio-eta-beige.vercel.app/
 
 ---
